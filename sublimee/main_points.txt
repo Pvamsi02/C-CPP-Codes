@@ -1,0 +1,12 @@
+///////////////max element,min element//////////////
+*min_element (first_index, last_index);
+
+*max_element (first_index, last_index);
+
+in array  *max_element(array,array+n);//n is size of array
+in vector *max_element(vec1.begin(),vec1.end());
+in list   *max_element(ls1.begin(), ls1.end());
+///////////////sort////////////////// 
+in array sort(array,array+n);
+in vector sort(vec1.begin(),vec1.end());
+in list list.sort();
